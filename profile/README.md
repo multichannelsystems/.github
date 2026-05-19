@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 👋 Interested in our Tools & SDKs
+## Interested in our Tools & SDKs
 
 If you're interested, we'd be happy to hear from you. Please reach out with:
 
